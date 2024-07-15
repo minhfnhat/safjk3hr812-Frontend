@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Innovation and Comfort in Every Task",
+        "title": "Transform Your Workspace with Confidence"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Workspace with Confidence",
+  "subtitle": "Unleash the Power of Innovation and Comfort in Every Task"
+}
